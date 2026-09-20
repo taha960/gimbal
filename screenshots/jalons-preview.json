@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/suivi/jalons",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Atelier",
+      "hasCanvas": false,
+      "bodyTextLen": 1940,
+      "bodyTextHash": "7090d6d678b8cffce1e44ace3c5baf753b96a1007c2c7e155bcdf04b361d17ba",
+      "bodyTextPrefix": "Atelier 26 — 27 Document Suivi Semaine Jalons Cibles, reste, jal",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/jalons-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Atelier",
+      "hasCanvas": false,
+      "bodyTextLen": 1887,
+      "bodyTextHash": "d03e324cc44d1a88dc015f51869a75387133645116a678906cb04bc51a09c87f",
+      "bodyTextPrefix": "Atelier Suivi Document Suivi Semaine Jalons TRAJECTOIRE ANNUELLE",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/jalons-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/jalons-preview.json"
+}

@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Atelier",
+      "hasCanvas": false,
+      "bodyTextLen": 1139,
+      "bodyTextHash": "00570b516438e9a1979c5c1533c6dfd636ff94d8e22821e5e70f6025c93983de",
+      "bodyTextPrefix": "Atelier 26 — 27 01 Intention 02 Projets 03 La journée 04 La sema",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Atelier",
+      "hasCanvas": false,
+      "bodyTextLen": 1027,
+      "bodyTextHash": "a6a69c0b42cfdf17e8ff985ce9f9ed7a80cda6f25776dc5d8f72bc0382e6a833",
+      "bodyTextPrefix": "Atelier 01 · Intention 01 02 03 04 05 06 07 08 09 10 01 · LE DOC",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

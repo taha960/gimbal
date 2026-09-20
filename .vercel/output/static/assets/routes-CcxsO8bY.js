@@ -1,0 +1,1 @@
+import{t as e}from"./app-frame-Kui8W2dP.js";import{a as t}from"./index-C2o79Zx1.js";var n=t();function r(){return(0,n.jsx)(e,{chapterId:`intention`})}export{r as component};

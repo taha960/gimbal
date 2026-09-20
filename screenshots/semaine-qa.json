@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/semaine",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Atelier",
+      "hasCanvas": false,
+      "bodyTextLen": 1187,
+      "bodyTextHash": "9def23ac856f46c355e21f87bcd69f9d71488ccf63a816350e18ba0143a22684",
+      "bodyTextPrefix": "Atelier 26 — 27 01 Intention 02 Projets 03 La journée 04 La sema",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/semaine-qa.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Atelier",
+      "hasCanvas": false,
+      "bodyTextLen": 1078,
+      "bodyTextHash": "1e4670a25035a305f56d23a98b4af34b26d723bf869c3f06716ba0c10a67bb0b",
+      "bodyTextPrefix": "Atelier 04 · La semaine 01 02 03 04 05 06 07 08 09 10 04 · UNE G",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/semaine-qa-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/semaine-qa.json"
+}

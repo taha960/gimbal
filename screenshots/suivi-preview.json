@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/suivi",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Atelier",
+      "hasCanvas": false,
+      "bodyTextLen": 1257,
+      "bodyTextHash": "df176626f393d745778dcda9e69fcbab463b9520e6ddd06cacdb54f380880867",
+      "bodyTextPrefix": "Atelier 26 — 27 Document Suivi Semaine Jalons Cibles, reste, jal",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/suivi-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Atelier",
+      "hasCanvas": false,
+      "bodyTextLen": 1204,
+      "bodyTextHash": "311e4babb2a3edb1d7420019ff2e515458c61f4ad7b3dee5032d21dd468e8be8",
+      "bodyTextPrefix": "Atelier Suivi Document Suivi Semaine Jalons TABLEAU DE LA SEMAIN",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/suivi-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/suivi-preview.json"
+}

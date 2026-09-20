@@ -1,0 +1,1 @@
+import{n as e,t}from"./app-frame-Kui8W2dP.js";import{a as n,r,t as i}from"./index-C2o79Zx1.js";var a=n();function o(t){return e.some(e=>e.id===t)}function s(){let{chapterId:e}=i.useParams();return o(e)?(0,a.jsx)(t,{chapterId:e}):(0,a.jsx)(r,{to:`/`})}export{s as component};
